@@ -1,0 +1,7 @@
+Name,Data Type,Logical Address,Comment,Hmi Visible,Hmi Accessible,Hmi Writeable,Typeobject ID,Version ID,BelongsToUnit
+Machine RoundStart/Stop,Bool,%Q13.0,Machine round start,True,True,True,,,
+Machine LineStart/Stop,Bool,%Q13.1,Machine  line start,True,True,True,,,
+Machine.PowerON,Bool,%Q13.2,Machine  power on,True,True,True,,,
+Power,Int,DB30000.DBD600,xxx,True,True,True,,,
+Rotor Speed,Int,DB30000.DBD604,xxx,True,True,True,,,
+Wind Speed,Int,DB30000.DBD608,xxx,True,True,True,,,
