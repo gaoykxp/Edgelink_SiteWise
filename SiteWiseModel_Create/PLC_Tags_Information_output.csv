@@ -1,0 +1,7 @@
+Name,Address,startBit,DataType
+Machine_RoundStart_Stop,QX0013,0,1
+Machine_LineStart_Stop,QX0013,1,1
+Machine_PowerON,QX0013,2,1
+Power,"DB30000,600",0,0
+Rotor_Speed,"DB30000,604",0,0
+Wind_Speed,"DB30000,608",0,0
