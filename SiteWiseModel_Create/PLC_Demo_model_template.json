@@ -1,0 +1,14 @@
+{
+    "assetModelHierarchies": [],
+    "assetModelDescription": "Station A PLC Demo Model Template",
+    "assetModelName": "Station A PLC Demo Model",
+    "assetModelProperties": [
+        {
+            "dataType": "BOOLEAN",
+            "type": {
+                "measurement": {}
+            },
+            "name": "Machine_RoundStart_Stop"
+        }
+    ]
+}
